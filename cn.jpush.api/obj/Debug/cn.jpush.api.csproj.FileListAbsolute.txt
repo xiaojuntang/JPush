@@ -1,0 +1,11 @@
+E:\code\ZYT_EnetSystem\ZYT_EnetSystem\cn.jpush.api\bin\Debug\cn.jpush.api.dll
+E:\code\ZYT_EnetSystem\ZYT_EnetSystem\cn.jpush.api\bin\Debug\cn.jpush.api.pdb
+E:\code\ZYT_EnetSystem\ZYT_EnetSystem\cn.jpush.api\bin\Debug\Newtonsoft.Json.dll
+E:\code\ZYT_EnetSystem\ZYT_EnetSystem\cn.jpush.api\obj\Debug\cn.jpush.api.dll
+E:\code\ZYT_EnetSystem\ZYT_EnetSystem\cn.jpush.api\obj\Debug\cn.jpush.api.pdb
+E:\code\HomeWork2\HomeWork\cn.jpush.api\bin\Debug\cn.jpush.api.dll
+E:\code\HomeWork2\HomeWork\cn.jpush.api\bin\Debug\cn.jpush.api.pdb
+E:\code\HomeWork2\HomeWork\cn.jpush.api\bin\Debug\Newtonsoft.Json.dll
+E:\code\HomeWork2\HomeWork\cn.jpush.api\obj\Debug\cn.jpush.api.dll
+E:\code\HomeWork2\HomeWork\cn.jpush.api\obj\Debug\cn.jpush.api.pdb
+E:\code\HomeWork2\HomeWork\cn.jpush.api\obj\Debug\cn.jpush.api.csprojResolveAssemblyReference.cache
